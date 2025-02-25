@@ -1,4 +1,4 @@
-                                               🏦 Bank Loan Analysis Project
+                                             🏦 Bank Loan Analysis Project
 
 This project focuses on analyzing bank loan data to uncover insights and trends using SQL, Power BI, Excel, and Tableau. It highlights key metrics, customer behavior, and loan performance to support strategic decision-making.
 
